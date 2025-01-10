@@ -62,7 +62,7 @@ header nav h3{
 }
 
 /* -----Pillars of "Bangladesh 2.0"-----  */
-.pillars h1{
+.pillar-heading{
       font-size: 40px;
       font-weight: 700;
       margin-top: 80px;
@@ -71,19 +71,25 @@ header nav h3{
 .pillars-row{
       display: flex;
       flex-wrap: nowrap;
-      gap: 24;
+      gap: 24px;
 }
 .pillars-box{
       padding: 24px;
       background-color: #F1F1F3;
       border-radius: 16px;
 }
-.pillar-heading{
+.box-heading{
       font-size: 20px;
       font-weight: 700;
       margin-bottom: 12px;
 }
-.pillars-deseription{
+.box-deseription{
       color: #0e0e0eb6;
       font-size: 16px;
+}
+
+/* --- The Vision of Future --- */
+.vision p{
+      margin-top: 24px;
+      margin-bottom: 32px;
 }
