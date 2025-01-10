@@ -136,3 +136,19 @@ header nav h3{
       border-style: none;
       background-color: #FFC239;
 }
+
+
+/* .......Dr. Muhammad Yunus......... */
+.dr-md-y{
+      background-image: url(/img/quote-bg.png);
+      background-repeat: no-repeat;
+      margin: 32px 0px;
+      padding: 48px 24px;
+      border-radius: 16px;
+      background-color: #FFFFFF;
+}
+.dr-heading{
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 0px;
+}
