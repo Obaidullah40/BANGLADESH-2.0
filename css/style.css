@@ -83,13 +83,56 @@ header nav h3{
       font-weight: 700;
       margin-bottom: 12px;
 }
-.box-deseription{
+.box-description{
       color: #0e0e0eb6;
       font-size: 16px;
 }
 
 /* --- The Vision of Future --- */
-.vision p{
-      margin-top: 24px;
+.vision-description{
+      color: #0e0e0eb6;
+      font-size: 16px;
       margin-bottom: 32px;
+}
+.vision-heading{
+      font-size: 40px;
+      font-weight: 700;
+      margin-top: 80px;
+      margin-bottom: 24px;
+}
+#vision-box1{
+      padding: 24px;
+      border-radius: 16px;
+      background-color: #548ff562;
+}
+#vision-btn1{
+      color: #FFFFFF;
+      border-radius: 8px;
+      padding: 11px 20px;
+      border-style: none;
+      background-color: #5490F5;
+}
+#vision-box2{
+      padding: 24px;
+      border-radius: 16px;
+      background-color: #C6E4D6;
+}
+#vision-btn2{
+      color: #FFFFFF;
+      border-radius: 8px;
+      padding: 11px 20px;
+      border-style: none;
+      background-color: #09A15C;
+}
+#vision-box3{
+      padding: 24px;
+      border-radius: 16px;
+      background-color: #F7EBCF;
+}
+#vision-btn3{
+      color: #FFFFFF;
+      border-radius: 8px;
+      padding: 11px 20px;
+      border-style: none;
+      background-color: #FFC239;
 }
