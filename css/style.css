@@ -29,7 +29,10 @@ header nav h3{
       border-radius: 8px;
       background-color: white;
 }
-
+.nav-btn:hover{
+      background-color: #09A15C;
+      color: white;
+}
 /* -------- BANNER -------- */
 
 .banner{
@@ -62,6 +65,10 @@ header nav h3{
       border-style: none;
       font-size: 18;
       font-weight: 600;
+}
+.btn-primary:hover{
+      color: #0e0c0c;
+      background-color: #14af61;
 }
 
 /* -----Pillars of "Bangladesh 2.0"-----  */
@@ -140,6 +147,33 @@ header nav h3{
       background-color: #FFC239;
 }
 
+/* id :hover */
+#vision-btn1:hover{
+      color: #FFFFFF;
+      background-color: #063a92;
+}
+#vision-btn2:hover{
+      color: #FFFFFF;
+      background-color: #016e3d;
+}
+#vision-btn3:hover{
+      color: #FFFFFF;
+      background-color: #9c7007;
+}
+
+#vision-box1:hover{
+      color: #2554a5;
+      background-color: #FFFFFF;
+}
+#vision-box2:hover{
+      color: #016e3d;
+      background-color: #FFFFFF;
+}
+#vision-box3:hover{
+      color: #9c7007;
+      background-color: #FFFFFF;
+}
+
 
 /* .......Dr. Muhammad Yunus......... */
 .dr-md-y{
@@ -197,6 +231,9 @@ header nav h3{
       padding: 0px 40px;
       border-radius: 16px;
 }
+.donate-box:hover{
+      background-color:#eed1d169;
+}
 .donate-box-heading{
       font-size: 40px;
       font-weight: 700;
@@ -206,6 +243,9 @@ header nav h3{
       background-color:#C6E4D6;
       padding: 0px 40px;
       border-radius: 16px;
+}
+.donate-box2:hover{
+      background-color:#1bdd838c;
 }
 .donate-input{
       width: 1032px;
@@ -255,7 +295,10 @@ header nav h3{
       border: 1px solid #006a50;
       font-weight: bold;
       }
-
+      .subscribe-input button:hover{
+      color: #0e0c0c;
+      background-color: #14af61;
+}
 
 /* Footer  */
 footer{
