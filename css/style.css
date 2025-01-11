@@ -255,3 +255,19 @@ header nav h3{
       border: 1px solid #006a50;
       font-weight: bold;
       }
+
+
+/* Footer  */
+footer{
+      background-color: white;
+      text-align: center;
+      padding: 30px;
+}
+.footer-icon{
+      display: flex;
+      justify-content: center;
+      gap:23px
+}
+footer hr{
+      margin: 32px;
+}
